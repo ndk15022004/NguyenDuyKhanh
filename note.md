@@ -1,1 +1,1 @@
-Ghi chú cho dự án
+Ghi chú
