@@ -6,3 +6,4 @@
 Thêm nội dung mới vào README.md
 Thay đổi lần 2
 Thêm ghi chú buổi 2
+Stash 1

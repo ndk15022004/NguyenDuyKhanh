@@ -1,4 +1,1 @@
-dòng 1
-dòng 2
-dòng 4
-dòng 5
+Dòng 1
